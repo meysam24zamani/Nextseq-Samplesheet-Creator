@@ -1,0 +1,20 @@
+[Header],
+IEMFileVersion,5
+Experiment Name,Name1
+Date,21/02/2019
+Workflow,GenerateFASTQ
+Application,NextSeq FASTQ Only
+Instrument Type,NextSeq/MiniSeq
+Assay,Nextera DNA
+Index Adapters,USAR ESTE PLANTILLA AGILENT
+Chemistry,Amplicon
+,
+[Reads],
+151,
+151,
+,
+[Settings],
+Adapter,CTGTCTCTTGATCACA
+AdapterRead2,CTGTCTCTTGATCACA
+,
+[Data],
